@@ -18,7 +18,7 @@
           <pubDate>2025-03-06
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
-          <dc:subject>Monthly meeting, drupal-planet</dc:subject>
+          <category>Monthly meeting, drupal-planet</category>
           </item>
 <item>
   <title>UI Suite Monthly #04 - Bridging Core Integration and Drupal 10 Compatibility</title>
@@ -30,7 +30,7 @@
           <pubDate>2023-01-10
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
-          <dc:subject>drupal-planet</dc:subject>
+          <category>drupal-planet</category>
           </item>
 <item>
   <title>UI Suite Monthly #03 - December 2022 Progress Update</title>
@@ -42,7 +42,7 @@
           <pubDate>2022-12-13
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
-          <dc:subject>drupal-planet</dc:subject>
+          <category>drupal-planet</category>
           </item>
 <item>
   <title>UI Suite Monthly #02 - Progress Updates and New Module Introduction</title>
@@ -54,7 +54,7 @@
           <pubDate>2022-11-08
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
-          <dc:subject>drupal-planet</dc:subject>
+          <category>drupal-planet</category>
           </item>
 <item>
   <title>UI Suite Monthly #01 - Progress Update and Future Roadmap</title>
@@ -66,7 +66,7 @@
           <pubDate>2022-10-11
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
-          <dc:subject>drupal-planet</dc:subject>
+          <category>drupal-planet</category>
           </item>
 </channel>
 </rss>
