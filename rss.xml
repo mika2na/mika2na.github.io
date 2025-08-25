@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 25 Aug 2025 14:23:36 +0200</lastBuildDate>
+<lastBuildDate>Mon, 25 Aug 2025 16:10:20 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -19,6 +19,18 @@
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>Monthly meeting, drupal-planet</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #07 - Expanding Our Design System Ecosystem</title>
+  <link>https://uisuite.net/ui-suite-monthly-07-expanding-our-design-system-ecosystem</link>
+  <description>Overall SummaryOur seventh monthly UI Suite meeting showcased significant momentum in building a comprehensive design system ecosystem for Drupal. With 15-16 attendees and a growing community of 100+ Slack members, we're making substantial progress across multiple fronts. The session featured strategic discussions about potential new modules (UI Icons and UI Forms), detailed technical updates on UI Patterns' roadmap, and compelling demonstrations of Wingsuit 2.0 and UI Styles Paragraphs integration.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/28</comments>
+          <guid isPermaLink="false">b371e9e9-b90a-4f14-9d55-2d1fcf4682ab</guid>
+          <pubDate>Tue, 11 Apr 23 14:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #06 - New Maintainers, Major Releases, and Ecosystem Growth</title>
