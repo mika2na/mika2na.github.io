@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Sun, 24 Aug 2025 23:52:40 +0200</lastBuildDate>
+<lastBuildDate>Mon, 25 Aug 2025 14:23:36 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -21,6 +21,30 @@
           <category>Monthly meeting, drupal-planet</category>
           </item>
 <item>
+  <title>UI Suite Monthly #06 - New Maintainers, Major Releases, and Ecosystem Growth</title>
+  <link>https://uisuite.net/ui-suite-monthly-06-new-maintainers-major-releases-ecosystem-growth</link>
+  <description>Our sixth monthly meeting showcased significant progress across multiple Drupal ecosystem modules, with exciting developments in design system implementation, new maintainer introductions, and substantial feature releases.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/29</comments>
+          <guid isPermaLink="false">ef760cb3-65d7-4e8e-a855-74e028e46cba</guid>
+          <pubDate>Tue, 14 Mar 23 14:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #05 - Advancing Plugin Management and Design Consistency</title>
+  <link>https://uisuite.net/ui-suite-monthly-05-advancing-plugin-management-and-design-consistency</link>
+  <description>Overall SummaryOur fifth monthly development meeting focused on advancing plugin management interfaces and addressing design system challenges. Key contributors including Florent discussed our progress on categorizing plugin manager interfaces, standardizing widget selections, and tackling complex color palette management issues within our current design system.The discussion revealed our ongoing efforts to improve module documentation and contributor experience, while addressing technical challenges around plugin compatibility, color management, and template systems. We emphasized the importance of maintaining consistency across different admin interfaces while making our system more accessible to new contributors.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/30</comments>
+          <guid isPermaLink="false">dd17c584-9da9-43df-8d98-4db61068010f</guid>
+          <pubDate>Tue, 14 Feb 23 14:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
+<item>
   <title>UI Suite Monthly #04 - Bridging Core Integration and Drupal 10 Compatibility</title>
   <link>https://uisuite.net/ui-suite-monthly-04-bridging-core-integration-and-drupal-10-compatibility</link>
   <description>Overall SummaryWe held our fourth monthly meeting to discuss progress on our ecosystem of Drupal UI modules, including UI Patterns, UI Styles, UI Skins, and related components. Our meeting covered significant developments in Drupal 10 compatibility, major architectural discussions with Drupal core maintainers, and our community coordination efforts.Key highlights include our productive meeting with core maintainers about the Single Directory Component (SDC) project and UI component initiatives, our successful releases achieving Drupal 10 compatibility across the ecosystem, and ongoing discussions about our module consolidation and community governance.</description>
@@ -30,7 +54,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <category>drupal-planet</category>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #03 - December 2022 Progress Update</title>
@@ -42,7 +66,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <category>drupal-planet</category>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #02 - Progress Updates and New Module Introduction</title>
@@ -54,7 +78,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <category>drupal-planet</category>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #01 - Progress Update and Future Roadmap</title>
@@ -66,7 +90,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <category>drupal-planet</category>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 </channel>
 </rss>
