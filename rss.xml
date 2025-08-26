@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Tue, 26 Aug 2025 16:20:14 +0200</lastBuildDate>
+<lastBuildDate>Tue, 26 Aug 2025 16:25:19 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -18,18 +18,19 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>Monthly meeting, drupal-planet</dc:subject>
+          <category>Monthly meeting, drupal-planet</category>
           </item>
 <item>
   <title>UI Suite Monthly #11 - Exciting Progress on UI Patterns 2.0 and New Icons Module</title>
   <link>https://uisuite.net/ui-suite-monthly-11-exciting-progress-on-ui-patterns-2-new-icons-module</link>
   <description>Overall SummaryOur September UI Suite initiative meeting marked a pivotal moment as we officially launched development on UI Patterns 2.0, building on the solid foundation of Single Directory Components (SDC) now available in Drupal core. The meeting covered significant progress across our entire ecosystem, from UI Styles reaching new milestones to exciting developments in our component library approach.</description>
-  <guid isPermaLink="false">75b3509f-7843-4308-961c-641adc0781d5</guid>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/38</comments>
+          <guid isPermaLink="false">75b3509f-7843-4308-961c-641adc0781d5</guid>
           <pubDate>Tue, 12 Sep 23 14:00:00 +0200
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #10 - Summer Progress and Major Feature Rollouts</title>
@@ -41,7 +42,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #09 - Exciting Progress and Community Growth</title>
@@ -53,7 +54,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #08 - Navigating New Challenges and Exciting Developments</title>
@@ -65,7 +66,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #07 - Expanding Our Design System Ecosystem</title>
@@ -77,7 +78,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #06 - New Maintainers, Major Releases, and Ecosystem Growth</title>
@@ -89,7 +90,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #05 - Advancing Plugin Management and Design Consistency</title>
@@ -101,7 +102,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #04 - Bridging Core Integration and Drupal 10 Compatibility</title>
@@ -113,7 +114,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #03 - December 2022 Progress Update</title>
@@ -125,7 +126,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #02 - Progress Updates and New Module Introduction</title>
@@ -137,7 +138,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #01 - Progress Update and Future Roadmap</title>
@@ -149,7 +150,7 @@
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
-          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 </channel>
 </rss>
