@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Tue, 26 Aug 2025 15:58:11 +0200</lastBuildDate>
+<lastBuildDate>Tue, 26 Aug 2025 16:20:14 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -21,10 +21,22 @@
           <dc:subject>Monthly meeting, drupal-planet</dc:subject>
           </item>
 <item>
+  <title>UI Suite Monthly #11 - Exciting Progress on UI Patterns 2.0 and New Icons Module</title>
+  <link>https://uisuite.net/ui-suite-monthly-11-exciting-progress-on-ui-patterns-2-new-icons-module</link>
+  <description>Overall SummaryOur September UI Suite initiative meeting marked a pivotal moment as we officially launched development on UI Patterns 2.0, building on the solid foundation of Single Directory Components (SDC) now available in Drupal core. The meeting covered significant progress across our entire ecosystem, from UI Styles reaching new milestones to exciting developments in our component library approach.</description>
+  <guid isPermaLink="false">75b3509f-7843-4308-961c-641adc0781d5</guid>
+          <pubDate>Tue, 12 Sep 23 14:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          </item>
+<item>
   <title>UI Suite Monthly #10 - Summer Progress and Major Feature Rollouts</title>
   <link>https://uisuite.net/ui-suite-monthly-10-summer-progress-and-major-feature-rollouts</link>
   <description>Overall SummaryOur August monthly meeting showcased significant momentum across the UI Suite ecosystem despite the summer season. We delivered substantial updates to UI Patterns with the introduction of revolutionary slot filters, made major strides in UI Styles architecture reorganization, and achieved important milestones in our theme implementations. The team demonstrated strong collaboration while balancing maintenance work with feature development, setting us up well for the upcoming Drupal 10.2 compatibility target in five months.</description>
-  <guid isPermaLink="false">a32fb594-46b0-4e54-a2bd-282885a2b55b</guid>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/37</comments>
+          <guid isPermaLink="false">a32fb594-46b0-4e54-a2bd-282885a2b55b</guid>
           <pubDate>Tue, 01 Aug 23 14:00:00 +0200
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
