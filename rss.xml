@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Tue, 26 Aug 2025 15:04:26 +0200</lastBuildDate>
+<lastBuildDate>Tue, 26 Aug 2025 15:22:15 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -21,10 +21,22 @@
           <dc:subject>Monthly meeting, drupal-planet</dc:subject>
           </item>
 <item>
+  <title>UI Suite Monthly #09 - Exciting Progress and Community Growth</title>
+  <link>https://uisuite.net/ui-suite-monthly-09-exciting-progress-and-community-growth</link>
+  <description>Overall SummaryOur June monthly meeting showcased significant momentum across the UI Suite ecosystem. We welcomed new contributors to our growing community of nearly 120 members and celebrated major milestones, including UI Styles reaching 400 installations. The meeting covered comprehensive updates on our core modules, exciting developments in UI Patterns 2.0 planning, and promising new community contributions. We're particularly thrilled about our first external UI Suite theme contribution and ongoing work with design system integrations.</description>
+  <guid isPermaLink="false">85ec77d5-bfe0-4bdd-987b-2e4a9b546ec3</guid>
+          <pubDate>Tue, 20 Jun 23 14:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <dc:subject>drupal-planet, Monthly meeting</dc:subject>
+          </item>
+<item>
   <title>UI Suite Monthly #08 - Navigating New Challenges and Exciting Developments</title>
   <link>https://uisuite.net/ui-suite-monthly-08-navigating-new-challenges-and-exciting-developments</link>
   <description>Overall SummaryOur eighth monthly UI Suite meeting brought together the community to discuss several pivotal developments in our initiative. We're facing an exciting opportunity with the upcoming project browser integration in Drupal 10.2/10.3, which will require significant updates to our modules to ensure compatibility and discoverability. The meeting covered our ongoing work across multiple modules, with particular focus on UI Patterns' major 2.0.x branch development and the integration of Single Directory Components (SDC) as a foundation for future releases.</description>
-  <guid isPermaLink="false">6c935000-5fad-40af-a6cf-3cdadc3bde88</guid>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/35</comments>
+          <guid isPermaLink="false">6c935000-5fad-40af-a6cf-3cdadc3bde88</guid>
           <pubDate>Tue, 16 May 23 14:00:00 +0200
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
