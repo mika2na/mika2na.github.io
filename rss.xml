@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Thu, 28 Aug 2025 16:11:20 +0200</lastBuildDate>
+<lastBuildDate>Thu, 28 Aug 2025 16:24:30 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -19,6 +19,18 @@
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>Monthly meeting, drupal-planet</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #15 - Major Progress Toward Alpha One and GitLab CI Integration</title>
+  <link>https://uisuite.net/ui-suite-monthly-meeting-15-major-progress-toward-alpha-one-and-gitLab-ci-integration</link>
+  <description>Overall SummaryWe're at one of the most critical moments in our UI Suite journey. This month's meeting showcased significant progress on UI Patterns 2.0 as we approach the Alpha One milestone, alongside major infrastructure improvements with GitLab CI integration. Our design system implementation continues to evolve, with enhanced compatibility testing and strategic decisions about our ecosystem's future.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/42</comments>
+          <guid isPermaLink="false">8ba49e42-48d7-4813-93a7-3552bdfca69a</guid>
+          <pubDate>Thu, 08 Feb 24 18:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #14 - Building Momentum for 2024 and Beyond</title>
