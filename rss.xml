@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Thu, 28 Aug 2025 11:18:41 +0200</lastBuildDate>
+<lastBuildDate>Thu, 28 Aug 2025 16:11:20 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -19,6 +19,18 @@
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>Monthly meeting, drupal-planet</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #14 - Building Momentum for 2024 and Beyond</title>
+  <link>https://uisuite.net/ui-suite-monthly-14-building-momentum-for-2024-and-beyond</link>
+  <description>Welcome to our fourteenth UI Suite Initiative monthly meeting recap! As we kicked off 2024, our team gathered to discuss progress, welcome new members, and chart our course for the exciting developments ahead.Overall SummaryOur January meeting marked a productive start to 2024, with significant progress on multiple fronts of the UI Suite Initiative. We welcomed Mel as our newest team member, who will be taking on the Field Formatter module scope from Edouard. The meeting covered substantial updates on our core components including the prop type schema manager, source part, and legacy systems integration.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/41</comments>
+          <guid isPermaLink="false">77d2b4c6-9ed4-45ce-bf01-2d8519bab5c5</guid>
+          <pubDate>Thu, 04 Jan 24 18:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #13 - Ecosystem Evolution and UI Patterns Consolidation</title>
