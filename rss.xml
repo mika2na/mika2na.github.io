@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Wed, 27 Aug 2025 18:19:17 +0200</lastBuildDate>
+<lastBuildDate>Thu, 28 Aug 2025 11:18:41 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -19,6 +19,18 @@
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>Monthly meeting, drupal-planet</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #13 - Ecosystem Evolution and UI Patterns Consolidation</title>
+  <link>https://uisuite.net/ui-suite-monthly-13-ecosystem-evolution-and-ui-patterns-consolidation</link>
+  <description>Overall SummaryOur November 2023 monthly meeting showcased significant momentum in UI Patterns 2 development while addressing key architectural challenges in our ecosystem. We're making substantial progress on the core project that will be merged in version 103, with the same dedicated six-person team continuing to drive development forward through weekly Thursday meetings.The meeting highlighted our strategic focus on ecosystem consolidation - a key goal that will allow us to address everything from formal core without extra modules and reduce the current seven extra modules to just two. This addresses one of the most common complaints about our ecosystem being "too messy" for newcomers, demonstrating our commitment to simplifying the developer experience without compromising functionality.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/40</comments>
+          <guid isPermaLink="false">490f14ad-8e04-4fe4-bec1-c781727773ae</guid>
+          <pubDate>Tue, 28 Nov 23 14:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #12 - One Year Strong and Ready for UI Pattern 2.0</title>
