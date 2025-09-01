@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 01 Sep 2025 09:50:15 +0200</lastBuildDate>
+<lastBuildDate>Mon, 01 Sep 2025 10:08:46 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -19,6 +19,18 @@
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>Monthly meeting, drupal-planet</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #17 - Major Milestones and Strategic Shifts Ahead</title>
+  <link>https://uisuite.net/ui-suite-monthly-17-major-milestones-and-strategic-shifts-ahead</link>
+  <description>Overall SummaryOur May 2024 monthly meeting marked a pivotal moment for the UI Suite ecosystem as we approach mid-year with significant developments on multiple fronts. We're currently managing five core modules while preparing for major transitions that will reshape our project landscape by year's end.The meeting highlighted our dual focus: advancing UI Patterns 2 development (which reached an impressive 80% completion with Alpha 2) while simultaneously launching our ambitious new icon set module initiative. We also addressed important strategic decisions regarding Drupal version compatibility and explored exciting collaboration opportunities with the emerging Experience Builder project.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/44</comments>
+          <guid isPermaLink="false">b5b0f0a9-09de-41a9-afb4-134f6ae78c4b</guid>
+          <pubDate>Thu, 02 May 24 18:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #16 - Building Momentum Towards Beta Release</title>
