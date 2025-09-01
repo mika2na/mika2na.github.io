@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 01 Sep 2025 10:49:31 +0200</lastBuildDate>
+<lastBuildDate>Mon, 01 Sep 2025 14:34:26 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -19,6 +19,18 @@
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>Monthly meeting, drupal-planet</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #19 - Major Milestones and Revolutionary Nesting Capabilities</title>
+  <link>https://uisuite.net/ui-suite-monthly-19-major-milestones-and-revolutionary-nesting-capabilities</link>
+  <description>Overall SummaryOur nineteenth monthly meeting showcased remarkable progress across the UI Suite ecosystem. We're experiencing a pivotal moment in our four-year journey as we transition from individual modules to a comprehensive meta-package solution. The star of this month's updates was UI Patterns 2, which has achieved 100% feature completion with Alpha 3 and introduced game-changing component nesting capabilities that eliminate many traditional Drupal limitations.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/46</comments>
+          <guid isPermaLink="false">385e2e05-9993-4565-b72d-6527373cd834</guid>
+          <pubDate>Thu, 18 Jul 24 18:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #18 - Major Reorganization &amp; UI Patterns 2 Reaches 80% Completion</title>
@@ -93,7 +105,7 @@
           <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
-  <title>UI Suite Monthly #12 - One Year Strong and Ready for UI Pattern 2.0</title>
+  <title>UI Suite Monthly #12 - One Year Strong and Ready for UI Patterns 2.0</title>
   <link>https://uisuite.net/ui-suite-monthly-12-one-year-strong-and-ready-for-ui-patterns-2</link>
   <description>Overall SummaryWhat a milestone! We've officially completed one full year of our monthly UI Suite meetings, marking an incredible journey that began at DrupalCon Prague with our first UI Patterns release. This October meeting was particularly special as we celebrated our anniversary while diving deep into the exciting developments around UI Patterns 2.0.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/39</comments>
