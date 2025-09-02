@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Tue, 02 Sep 2025 16:22:44 +0200</lastBuildDate>
+<lastBuildDate>Tue, 02 Sep 2025 16:36:40 +0200</lastBuildDate>
 <pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
@@ -19,6 +19,18 @@
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>Monthly meeting, drupal-planet</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #22 - Major Transitions and Exciting Developments Ahead</title>
+  <link>https://uisuite.net/ui-suite-monthly-22-major-transitions-and-exciting-developments-ahead</link>
+  <description>Overall SummaryOur 22nd monthly UI Suite meeting brought together community members for an exciting update on the ecosystem's evolution. This session focused heavily on transitions and new developments, with UI Patterns 2 taking center stage as the official version while layout options are being phased out. We're experiencing significant momentum across our entire suite of tools, with multiple modules preparing new branches compatible with UI Patterns 2 and the upcoming UI Icons integration into Drupal core.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/49</comments>
+          <guid isPermaLink="false">2d229ab8-1afb-4edd-a64b-ecb71a3eeaa6</guid>
+          <pubDate>Thu, 14 Nov 24 18:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
   <title>UI Suite Monthly #21 - Major Milestones and Strategic Transitions Ahead</title>
