@@ -6,7 +6,7 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Tue, 02 Sep 2025 17:40:45 +0200</lastBuildDate>
+<lastBuildDate>Tue, 02 Sep 2025 18:22:42 +0200</lastBuildDate>
 <pubDate>Thu, 31 Jul 25 18:00:00 +0200</pubDate>
 <item>
   <title>UI Suite Monthly #29 - Paving the Path to Design System Native Drupal</title>
@@ -141,7 +141,7 @@
           <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
-  <title>UI Suite Monthly #18 - Major Reorganization &amp; UI Patterns 2 Reaches 80% Completion</title>
+  <title>UI Suite Monthly #18 - Major Reorganization and UI Patterns 2 Reaches 80% Completion</title>
   <link>https://uisuite.net/ui-suite-monthly-18-major-reorganization-and-ui-patterns-2-reaches-80-percent-completion</link>
   <description>Overall SummaryOur June monthly meeting brought exciting transformational news for the UI Suite ecosystem. We're implementing a major reorganization strategy that will introduce a meta package while maintaining all existing modules as separate, optional components. This change aims to provide both flexibility for individual module users and convenience for those wanting the complete UI Suite experience through a single installation command.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/45</comments>
