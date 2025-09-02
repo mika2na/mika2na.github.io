@@ -6,8 +6,56 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Tue, 02 Sep 2025 16:58:43 +0200</lastBuildDate>
-<pubDate>Thu, 06 Mar 25 18:00:00 +0100</pubDate>
+<lastBuildDate>Tue, 02 Sep 2025 17:40:45 +0200</lastBuildDate>
+<pubDate>Thu, 31 Jul 25 18:00:00 +0200</pubDate>
+<item>
+  <title>UI Suite Monthly #29 - Paving the Path to Design System Native Drupal</title>
+  <link>https://uisuite.net/ui-suite-monthly-29-paving-the-path-to-design-system-native-drupal</link>
+  <description>Our latest UI Suite Initiative monthly meeting showcased significant momentum toward making Drupal truly design system native. With major developments in our core integration efforts, exciting new features in Display Builder, and strategic planning for upcoming releases, we're closer than ever to delivering a comprehensive design system foundation for the Drupal ecosystem.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/55</comments>
+          <guid isPermaLink="false">95d8132c-3b6a-48b7-af72-58f169dc916b</guid>
+          <pubDate>Thu, 31 Jul 25 18:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #28 - Adoption Surge and Major Milestones Ahead</title>
+  <link>https://uisuite.net/ui-suite-monthly-28-adoption-surge-and-major-milestones-ahead</link>
+  <description>Overall SummaryOur June 2025 monthly meeting marked what Pierre described as "the best month ever since we started five or six years ago," with UI Suite experiencing unprecedented growth across all modules. We welcomed several new community members, including representatives from French company Cap Gemini, and celebrated record-breaking adoption rates that have propelled UI Suite into the top 500 Drupal modules.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/54</comments>
+          <guid isPermaLink="false">3bb6b52e-9504-4d21-9ada-d66c4c3a8ebf</guid>
+          <pubDate>Thu, 26 Jun 25 18:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #27 - From Components to Core Integration</title>
+  <link>https://uisuite.net/ui-suite-monthly-27-from-components-to-core-integration</link>
+  <description>Overall SummaryOur May 2025 UI Suite community meeting brought together 20 passionate developers and contributors to discuss the exciting progress we're making toward transforming Drupal into the first design system native CMS. We celebrated significant milestones, including Pierre's promotion to provisional front-end framework manager, and showcased groundbreaking work on form API integration with Single Directory Components (SDC). The meeting highlighted our ambitious two-year roadmap and demonstrated how we're revolutionizing the way developers build and manage design systems in Drupal.With major releases on the horizon and innovative features like component-driven form elements becoming reality, we're witnessing a pivotal moment in Drupal's evolution. Our community continues to grow, and the momentum behind our initiatives shows no signs of slowing down.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/53</comments>
+          <guid isPermaLink="false">579ce449-660a-4096-ac2c-bf2b9bd8e76d</guid>
+          <pubDate>Thu, 15 May 25 18:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
+<item>
+  <title>UI Suite Monthly #26 - Building the Future of Drupal Design Systems</title>
+  <link>https://uisuite.net/ui-suite-monthly-26-building-the-future-of-drupal-design-systems</link>
+  <description>Overall SummaryOur latest monthly meeting showcased the incredible momentum we're building across the UI Suite ecosystem. With 18-20 participants from both sides of the Atlantic, we celebrated Jean's promotion to core maintainer for SDC and Icon APIs while diving deep into groundbreaking developments that are reshaping how we approach design systems in Drupal.The session highlighted two years and a half of consistent progress, featuring live demonstrations of revolutionary tools like UI Patterns UI for simplified component management, UI Patterns Field for content entity integration, and our ambitious new Display Builder that promises to transform how we create layouts. From experimental form API integrations to major theme releases reaching beta status, we're seeing our vision of a unified design system approach becoming reality.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/52</comments>
+          <guid isPermaLink="false">22787f21-9242-46fd-b76c-3d24549af3c7</guid>
+          <pubDate>Thu, 10 Apr 25 18:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
 <item>
   <title>UI Suite Monthly #25 - Celebrating 5 Years with Major Releases and Growing Community</title>
   <link>https://uisuite.net/ui-suite-monthly-25-celebrating-5-years-anniversary</link>
