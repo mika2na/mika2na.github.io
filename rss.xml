@@ -6,8 +6,20 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Thu, 04 Sep 2025 09:44:32 +0200</lastBuildDate>
-<pubDate>Thu, 31 Jul 25 18:00:00 +0200</pubDate>
+<lastBuildDate>Tue, 09 Sep 2025 14:00:16 +0200</lastBuildDate>
+<pubDate>Fri, 05 Sep 25 15:00:00 +0200</pubDate>
+<item>
+  <title>UI Suite Monthly #30 - Display Builder "Star of the Show" with live demo (starting at 3:13)</title>
+  <link>https://uisuite.net/ui-suite-monthly-30-display-builder-star-of-the-show-with-live-demo</link>
+  <description>Overall SummaryOur September monthly meeting marked a pivotal moment for the UI Suite Initiative, with Display Builder reaching its final alpha release (Alpha 5) and preparing to transition into the beta phase. The community-driven project, now supported by 11+ contributors from different agencies, showcased significant progress toward making Drupal the first design system native CMS.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/57</comments>
+          <guid isPermaLink="false">ae7ead12-87b4-4381-8ad9-3d10b1658c89</guid>
+          <pubDate>Fri, 05 Sep 25 15:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>admin</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
 <item>
   <title>UI Suite Monthly #29 - Paving the Path to Design System Native Drupal</title>
   <link>https://uisuite.net/ui-suite-monthly-29-paving-the-path-to-design-system-native-drupal</link>
