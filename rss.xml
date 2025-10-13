@@ -6,15 +6,28 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Wed, 10 Sep 2025 10:56:47 +0200</lastBuildDate>
-<pubDate>Tue, 09 Sep 25 14:03:31 +0200</pubDate>
+<lastBuildDate>Mon, 13 Oct 2025 10:50:24 +0200</lastBuildDate>
+<pubDate>Mon, 13 Oct 25 10:49:49 +0200</pubDate>
+<item>
+  <title>UI Suite Monthly #31 - Display Builder Beta Approaches as We Race Toward Drupal 11.3</title>
+  <link>https://uisuite.net/ui-suite-monthly-31-display-builder-beta-approachesas-we-race-toward-drupal-11-3</link>
+  <description>Overall SummaryOur October monthly meeting showcased the incredible momentum building across the UI Suite ecosystem as we approach critical deadlines and milestones. With Drupal 11.3's feature freeze just two weeks away, we're pushing hard to land several major APIs in core while simultaneously advancing our contrib modules. The meeting highlighted our growing community engagement, reaching 380 members on Slack and over 1,100 installs across our key modules. We also celebrated Florent's official addition as a Drupal core maintainer and explored exciting new collaboration opportunities with the German government's Kern UX design system initiative.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/58</comments>
+          <guid isPermaLink="false">6d1c22fd-d537-48a4-a1f2-8db9e9fffd63</guid>
+          <pubDate>Mon, 13 Oct 25 10:49:49 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
 <item>
   <title>UI Suite Monthly #30 - Display Builder "Star of the Show" with live demo (starting at 3:13)</title>
   <link>https://uisuite.net/ui-suite-monthly-30-display-builder-star-of-the-show-with-live-demo</link>
   <description>Overall SummaryOur September monthly meeting marked a pivotal moment for the UI Suite Initiative, with Display Builder reaching its final alpha release (Alpha 5) and preparing to transition into the beta phase. The community-driven project, now supported by 11+ contributors from different agencies, showcased significant progress toward making Drupal the first design system native CMS.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/57</comments>
           <guid isPermaLink="false">ae7ead12-87b4-4381-8ad9-3d10b1658c89</guid>
-          <pubDate>Tue, 09 Sep 25 14:03:31 +0200</pubDate>
+          <pubDate>Tue, 09 Sep 25 14:03:31 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -25,7 +38,8 @@
   <description>Our latest UI Suite Initiative monthly meeting showcased significant momentum toward making Drupal truly design system native. With major developments in our core integration efforts, exciting new features in Display Builder, and strategic planning for upcoming releases, we're closer than ever to delivering a comprehensive design system foundation for the Drupal ecosystem.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/55</comments>
           <guid isPermaLink="false">95d8132c-3b6a-48b7-af72-58f169dc916b</guid>
-          <pubDate>Tue, 02 Sep 25 17:40:28 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 17:40:28 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -36,7 +50,8 @@
   <description>Overall SummaryOur June 2025 monthly meeting marked what Pierre described as "the best month ever since we started five or six years ago," with UI Suite experiencing unprecedented growth across all modules. We welcomed several new community members, including representatives from French company Cap Gemini, and celebrated record-breaking adoption rates that have propelled UI Suite into the top 500 Drupal modules.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/54</comments>
           <guid isPermaLink="false">3bb6b52e-9504-4d21-9ada-d66c4c3a8ebf</guid>
-          <pubDate>Tue, 02 Sep 25 17:33:37 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 17:33:37 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -47,7 +62,8 @@
   <description>Overall SummaryOur May 2025 UI Suite community meeting brought together 20 passionate developers and contributors to discuss the exciting progress we're making toward transforming Drupal into the first design system native CMS. We celebrated significant milestones, including Pierre's promotion to provisional front-end framework manager, and showcased groundbreaking work on form API integration with Single Directory Components (SDC). The meeting highlighted our ambitious two-year roadmap and demonstrated how we're revolutionizing the way developers build and manage design systems in Drupal.With major releases on the horizon and innovative features like component-driven form elements becoming reality, we're witnessing a pivotal moment in Drupal's evolution. Our community continues to grow, and the momentum behind our initiatives shows no signs of slowing down.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/53</comments>
           <guid isPermaLink="false">579ce449-660a-4096-ac2c-bf2b9bd8e76d</guid>
-          <pubDate>Tue, 02 Sep 25 17:25:49 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 17:25:49 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -58,7 +74,8 @@
   <description>Overall SummaryOur latest monthly meeting showcased the incredible momentum we're building across the UI Suite ecosystem. With 18-20 participants from both sides of the Atlantic, we celebrated Jean's promotion to core maintainer for SDC and Icon APIs while diving deep into groundbreaking developments that are reshaping how we approach design systems in Drupal.The session highlighted two years and a half of consistent progress, featuring live demonstrations of revolutionary tools like UI Patterns UI for simplified component management, UI Patterns Field for content entity integration, and our ambitious new Display Builder that promises to transform how we create layouts. From experimental form API integrations to major theme releases reaching beta status, we're seeing our vision of a unified design system approach becoming reality.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/52</comments>
           <guid isPermaLink="false">22787f21-9242-46fd-b76c-3d24549af3c7</guid>
-          <pubDate>Tue, 02 Sep 25 17:15:13 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 17:15:13 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -69,7 +86,8 @@
   <description>We marked a significant milestone in our March 2025 monthly meeting, celebrating five years of organized development while announcing major releases and demonstrating growing community momentum. Our meeting showcased substantial progress across our ecosystem of design system modules for Drupal.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/4</comments>
           <guid isPermaLink="false">665b3157-69d8-4c28-9b4b-445fdf731e6b</guid>
-          <pubDate>Mon, 25 Aug 25 16:22:32 +0200</pubDate>
+          <pubDate>Mon, 25 Aug 25 16:22:32 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>Monthly meeting, drupal-planet</category>
@@ -80,7 +98,8 @@
   <description>Overall SummaryWe're thrilled to share the exciting developments from our latest UI Suite monthly meeting, where we celebrated major milestones and outlined our ambitious roadmap ahead. After eight years of dedicated work and five years since UI Suite 1, we're finally witnessing UI Suite 2 taking concrete shape with the imminent release of UI Patterns 2.0.0 stable.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/51</comments>
           <guid isPermaLink="false">7d75ec41-1fcc-427b-8bae-106ee21cc3b0</guid>
-          <pubDate>Tue, 02 Sep 25 16:58:24 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 16:58:24 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -91,7 +110,8 @@
   <description>Overall SummaryOur final monthly meeting of 2024 marked the end of what can only be described as a transformative year for the UI Suite initiative. We've reached significant milestones across all five modules that comprise our complete design system implementation for Drupal, with UI Patterns 2.0 approaching its stable release and the entire ecosystem evolving toward a more mature, component-based architecture.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/50</comments>
           <guid isPermaLink="false">397c0b98-1759-4c70-a313-de6891ab62a1</guid>
-          <pubDate>Tue, 02 Sep 25 16:47:47 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 16:47:47 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -102,7 +122,8 @@
   <description>Overall SummaryOur 22nd monthly UI Suite meeting brought together community members for an exciting update on the ecosystem's evolution. This session focused heavily on transitions and new developments, with UI Patterns 2 taking center stage as the official version while layout options are being phased out. We're experiencing significant momentum across our entire suite of tools, with multiple modules preparing new branches compatible with UI Patterns 2 and the upcoming UI Icons integration into Drupal core.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/49</comments>
           <guid isPermaLink="false">2d229ab8-1afb-4edd-a64b-ecb71a3eeaa6</guid>
-          <pubDate>Tue, 02 Sep 25 16:36:15 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 16:36:15 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -113,7 +134,8 @@
   <description>Overall SummaryOur 21st monthly meeting marked a significant milestone in the UI Suite Initiative's journey. After two years since starting in October 2022, we've officially transitioned from the legacy UI Suite module to promoting UI Patterns 2 as our flagship solution. This meeting highlighted our growing momentum with around 50 UI Patterns 2 users and our position as the second most popular SDC module on Drupal.org.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/48</comments>
           <guid isPermaLink="false">33d85e66-871b-4a28-a0e0-1678a3260cd6</guid>
-          <pubDate>Tue, 02 Sep 25 16:22:24 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 16:22:24 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -124,7 +146,8 @@
   <description>Overall SummaryOur 20th monthly meeting marked a significant milestone for the UI Suite Initiative - celebrating two full years of consistent community engagement and progress. This meeting showcased substantial achievements across our entire ecosystem, with major releases and exciting new developments that demonstrate our maturation as a comprehensive design system solution for Drupal.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/47</comments>
           <guid isPermaLink="false">8ad9ad93-fc4f-4c92-ad5e-33fd7e112bf0</guid>
-          <pubDate>Tue, 02 Sep 25 16:13:11 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 16:13:11 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -135,7 +158,8 @@
   <description>Overall SummaryOur nineteenth monthly meeting showcased remarkable progress across the UI Suite ecosystem. We're experiencing a pivotal moment in our four-year journey as we transition from individual modules to a comprehensive meta-package solution. The star of this month's updates was UI Patterns 2, which has achieved 100% feature completion with Alpha 3 and introduced game-changing component nesting capabilities that eliminate many traditional Drupal limitations.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/46</comments>
           <guid isPermaLink="false">385e2e05-9993-4565-b72d-6527373cd834</guid>
-          <pubDate>Mon, 01 Sep 25 14:34:02 +0200</pubDate>
+          <pubDate>Mon, 01 Sep 25 14:34:02 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -146,7 +170,8 @@
   <description>Overall SummaryOur June monthly meeting brought exciting transformational news for the UI Suite ecosystem. We're implementing a major reorganization strategy that will introduce a meta package while maintaining all existing modules as separate, optional components. This change aims to provide both flexibility for individual module users and convenience for those wanting the complete UI Suite experience through a single installation command.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/56</comments>
           <guid isPermaLink="false">00b79062-7fc3-494b-8d2f-704b18391b92</guid>
-          <pubDate>Tue, 02 Sep 25 19:32:32 +0200</pubDate>
+          <pubDate>Tue, 02 Sep 25 19:32:32 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -157,7 +182,8 @@
   <description>Overall SummaryOur May 2024 monthly meeting marked a pivotal moment for the UI Suite ecosystem as we approach mid-year with significant developments on multiple fronts. We're currently managing five core modules while preparing for major transitions that will reshape our project landscape by year's end.The meeting highlighted our dual focus: advancing UI Patterns 2 development (which reached an impressive 80% completion with Alpha 2) while simultaneously launching our ambitious new icon set module initiative. We also addressed important strategic decisions regarding Drupal version compatibility and explored exciting collaboration opportunities with the emerging Experience Builder project.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/44</comments>
           <guid isPermaLink="false">b5b0f0a9-09de-41a9-afb4-134f6ae78c4b</guid>
-          <pubDate>Mon, 01 Sep 25 10:08:28 +0200</pubDate>
+          <pubDate>Mon, 01 Sep 25 10:08:28 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -168,7 +194,8 @@
   <description>Welcome back to our monthly UI Suite initiative update! After skipping March, we're excited to reconnect with our community and share the significant progress we've made across our ecosystem. This special April meeting not only marked our return to regular updates but also celebrated Lina's birthday – making it a truly memorable gathering for our team.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/43</comments>
           <guid isPermaLink="false">029e8b7a-7ae3-4bbe-9e5a-10515862ca84</guid>
-          <pubDate>Mon, 01 Sep 25 09:49:47 +0200</pubDate>
+          <pubDate>Mon, 01 Sep 25 09:49:47 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -179,7 +206,8 @@
   <description>Overall SummaryWe're at one of the most critical moments in our UI Suite journey. This month's meeting showcased significant progress on UI Patterns 2.0 as we approach the Alpha One milestone, alongside major infrastructure improvements with GitLab CI integration. Our design system implementation continues to evolve, with enhanced compatibility testing and strategic decisions about our ecosystem's future.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/42</comments>
           <guid isPermaLink="false">8ba49e42-48d7-4813-93a7-3552bdfca69a</guid>
-          <pubDate>Mon, 01 Sep 25 14:50:45 +0200</pubDate>
+          <pubDate>Mon, 01 Sep 25 14:50:45 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -190,7 +218,8 @@
   <description>Welcome to our fourteenth UI Suite Initiative monthly meeting recap! As we kicked off 2024, our team gathered to discuss progress, welcome new members, and chart our course for the exciting developments ahead.Overall SummaryOur January meeting marked a productive start to 2024, with significant progress on multiple fronts of the UI Suite Initiative. We welcomed Mel as our newest team member, who will be taking on the Field Formatter module scope from Edouard. The meeting covered substantial updates on our core components including the prop type schema manager, source part, and legacy systems integration.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/41</comments>
           <guid isPermaLink="false">77d2b4c6-9ed4-45ce-bf01-2d8519bab5c5</guid>
-          <pubDate>Thu, 28 Aug 25 16:10:17 +0200</pubDate>
+          <pubDate>Thu, 28 Aug 25 16:10:17 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -201,7 +230,8 @@
   <description>Overall SummaryOur November 2023 monthly meeting showcased significant momentum in UI Patterns 2 development while addressing key architectural challenges in our ecosystem. We're making substantial progress on the core project that will be merged in version 103, with the same dedicated six-person team continuing to drive development forward through weekly Thursday meetings.The meeting highlighted our strategic focus on ecosystem consolidation - a key goal that will allow us to address everything from formal core without extra modules and reduce the current seven extra modules to just two. This addresses one of the most common complaints about our ecosystem being "too messy" for newcomers, demonstrating our commitment to simplifying the developer experience without compromising functionality.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/40</comments>
           <guid isPermaLink="false">490f14ad-8e04-4fe4-bec1-c781727773ae</guid>
-          <pubDate>Thu, 28 Aug 25 11:18:23 +0200</pubDate>
+          <pubDate>Thu, 28 Aug 25 11:18:23 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -212,7 +242,8 @@
   <description>Overall SummaryWhat a milestone! We've officially completed one full year of our monthly UI Suite meetings, marking an incredible journey that began at DrupalCon Prague with our first UI Patterns release. This October meeting was particularly special as we celebrated our anniversary while diving deep into the exciting developments around UI Patterns 2.0.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/39</comments>
           <guid isPermaLink="false">b2bf7b2a-6609-4e37-8ccb-9a38f6830f42</guid>
-          <pubDate>Mon, 01 Sep 25 10:51:39 +0200</pubDate>
+          <pubDate>Mon, 01 Sep 25 10:51:39 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -223,7 +254,8 @@
   <description>Overall SummaryOur September UI Suite initiative meeting marked a pivotal moment as we officially launched development on UI Patterns 2.0, building on the solid foundation of Single Directory Components (SDC) now available in Drupal core. The meeting covered significant progress across our entire ecosystem, from UI Styles reaching new milestones to exciting developments in our component library approach.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/38</comments>
           <guid isPermaLink="false">75b3509f-7843-4308-961c-641adc0781d5</guid>
-          <pubDate>Tue, 26 Aug 25 16:25:00 +0200</pubDate>
+          <pubDate>Tue, 26 Aug 25 16:25:00 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -234,7 +266,8 @@
   <description>Overall SummaryOur August monthly meeting showcased significant momentum across the UI Suite ecosystem despite the summer season. We delivered substantial updates to UI Patterns with the introduction of revolutionary slot filters, made major strides in UI Styles architecture reorganization, and achieved important milestones in our theme implementations. The team demonstrated strong collaboration while balancing maintenance work with feature development, setting us up well for the upcoming Drupal 10.2 compatibility target in five months.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/37</comments>
           <guid isPermaLink="false">a32fb594-46b0-4e54-a2bd-282885a2b55b</guid>
-          <pubDate>Tue, 26 Aug 25 16:01:28 +0200</pubDate>
+          <pubDate>Tue, 26 Aug 25 16:01:28 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -245,7 +278,8 @@
   <description>Overall SummaryOur June monthly meeting showcased significant momentum across the UI Suite ecosystem. We welcomed new contributors to our growing community of nearly 120 members and celebrated major milestones, including UI Styles reaching 400 installations. The meeting covered comprehensive updates on our core modules, exciting developments in UI Patterns 2.0 planning, and promising new community contributions. We're particularly thrilled about our first external UI Suite theme contribution and ongoing work with design system integrations.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/36</comments>
           <guid isPermaLink="false">85ec77d5-bfe0-4bdd-987b-2e4a9b546ec3</guid>
-          <pubDate>Tue, 26 Aug 25 15:28:38 +0200</pubDate>
+          <pubDate>Tue, 26 Aug 25 15:28:38 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -256,7 +290,8 @@
   <description>Overall SummaryOur eighth monthly UI Suite meeting brought together the community to discuss several pivotal developments in our initiative. We're facing an exciting opportunity with the upcoming project browser integration in Drupal 10.2/10.3, which will require significant updates to our modules to ensure compatibility and discoverability. The meeting covered our ongoing work across multiple modules, with particular focus on UI Patterns' major 2.0.x branch development and the integration of Single Directory Components (SDC) as a foundation for future releases.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/35</comments>
           <guid isPermaLink="false">6c935000-5fad-40af-a6cf-3cdadc3bde88</guid>
-          <pubDate>Tue, 26 Aug 25 15:06:15 +0200</pubDate>
+          <pubDate>Tue, 26 Aug 25 15:06:15 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -267,7 +302,8 @@
   <description>Overall SummaryOur seventh monthly UI Suite meeting showcased significant momentum in building a comprehensive design system ecosystem for Drupal. With 15-16 attendees and a growing community of 100+ Slack members, we're making substantial progress across multiple fronts. The session featured strategic discussions about potential new modules (UI Icons and UI Forms), detailed technical updates on UI Patterns' roadmap, and compelling demonstrations of Wingsuit 2.0 and UI Styles Paragraphs integration.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/32</comments>
           <guid isPermaLink="false">b371e9e9-b90a-4f14-9d55-2d1fcf4682ab</guid>
-          <pubDate>Mon, 25 Aug 25 16:22:22 +0200</pubDate>
+          <pubDate>Mon, 25 Aug 25 16:22:22 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -278,7 +314,8 @@
   <description>Our sixth monthly meeting showcased significant progress across multiple Drupal ecosystem modules, with exciting developments in design system implementation, new maintainer introductions, and substantial feature releases.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/33</comments>
           <guid isPermaLink="false">ef760cb3-65d7-4e8e-a855-74e028e46cba</guid>
-          <pubDate>Mon, 25 Aug 25 16:22:12 +0200</pubDate>
+          <pubDate>Mon, 25 Aug 25 16:22:12 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -289,7 +326,8 @@
   <description>Overall SummaryOur fifth monthly development meeting focused on advancing plugin management interfaces and addressing design system challenges. Key contributors including Florent discussed our progress on categorizing plugin manager interfaces, standardizing widget selections, and tackling complex color palette management issues within our current design system.The discussion revealed our ongoing efforts to improve module documentation and contributor experience, while addressing technical challenges around plugin compatibility, color management, and template systems. We emphasized the importance of maintaining consistency across different admin interfaces while making our system more accessible to new contributors.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/34</comments>
           <guid isPermaLink="false">dd17c584-9da9-43df-8d98-4db61068010f</guid>
-          <pubDate>Mon, 25 Aug 25 16:21:53 +0200</pubDate>
+          <pubDate>Mon, 25 Aug 25 16:21:53 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -300,7 +338,8 @@
   <description>Overall SummaryWe held our fourth monthly meeting to discuss progress on our ecosystem of Drupal UI modules, including UI Patterns, UI Styles, UI Skins, and related components. Our meeting covered significant developments in Drupal 10 compatibility, major architectural discussions with Drupal core maintainers, and our community coordination efforts.Key highlights include our productive meeting with core maintainers about the Single Directory Component (SDC) project and UI component initiatives, our successful releases achieving Drupal 10 compatibility across the ecosystem, and ongoing discussions about our module consolidation and community governance.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/31</comments>
           <guid isPermaLink="false">88364d83-5549-4b15-8adf-357922cb47ed</guid>
-          <pubDate>Mon, 25 Aug 25 16:21:41 +0200</pubDate>
+          <pubDate>Mon, 25 Aug 25 16:21:41 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -311,7 +350,8 @@
   <description>The UI Suite Initiative represents our ambitious effort to bring comprehensive design system capabilities to Drupal through a collection of interconnected modules. As organizations increasingly adopt design systems to maintain consistency across digital properties, we recognize the critical need for robust tooling within content management systems. Our December 2022 meeting captured a pivotal moment for our project, occurring just as Drupal 10 was launching and as we introduced innovative features like dynamic CSS variable management.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/6</comments>
           <guid isPermaLink="false">b14890ab-5138-41f4-a5ea-292f1cfb43f4</guid>
-          <pubDate>Mon, 25 Aug 25 16:21:17 +0200</pubDate>
+          <pubDate>Mon, 25 Aug 25 16:21:17 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -322,7 +362,8 @@
   <description>The UI Suite Initiative held its second monthly meeting on November 8, 2022, bringing together contributors to discuss ongoing developments, introduce new modules, and address key technical challenges facing the Drupal component ecosystem.Overall SummaryThis meeting served as a comprehensive update on the UI Suite ecosystem's evolution, covering everything from administrative changes to new module introductions. The team addressed the migration from GitHub to Drupal.org's issue queue, discussed code consolidation strategies, and introduced important terminology clarifications around "slots" and "props" borrowed from Vue.js concepts.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/5</comments>
           <guid isPermaLink="false">1ce9e6a6-73ab-4a94-bc72-ce236c397452</guid>
-          <pubDate>Mon, 25 Aug 25 16:21:09 +0200</pubDate>
+          <pubDate>Mon, 25 Aug 25 16:21:09 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
@@ -333,7 +374,8 @@
   <description>The UI Suite Initiative held its first monthly meeting on October 11, 2022, bringing together developers and contributors to discuss the current state of the project and plan for future developments. This comprehensive session covered recent achievements, upcoming releases, and important architectural decisions that will shape the future of UI component development in Drupal.Overall SummaryThe UI Suite Initiative aims to implement full Design Systems in Drupal, expanding beyond the current offerings of components, solutions, layouts, and examples. The project's dual mission focuses on preserving and improving the developer building experience while creating implementation value without requiring PHP expertise.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/3</comments>
           <guid isPermaLink="false">92aa1f0d-4d8d-438a-9f4d-85e88f9f4790</guid>
-          <pubDate>Mon, 25 Aug 25 16:20:57 +0200</pubDate>
+          <pubDate>Mon, 25 Aug 25 16:20:57 +0200
+</pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, Monthly meeting</category>
