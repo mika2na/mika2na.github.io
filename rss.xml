@@ -6,8 +6,20 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 13 Oct 2025 10:50:24 +0200</lastBuildDate>
-<pubDate>Mon, 13 Oct 25 10:49:49 +0200</pubDate>
+<lastBuildDate>Mon, 24 Nov 2025 14:29:55 +0100</lastBuildDate>
+<pubDate>Mon, 24 Nov 25 14:30:00 +0100</pubDate>
+<item>
+  <title>UI Suite Monthly #32 - Display Builder Beta 1 Launch, Core Integration Progress and AI-Powered Component Generation</title>
+  <link>https://uisuite.net/ui-suite-monthly-32-display-builder-beta-1-launch-core-integration-progress-and-ai-powered-component-generation</link>
+  <description>Overall SummaryOur November monthly meeting showcased significant progress across the UI Suite ecosystem as we edge closer to major milestones. The star of the show was Display Builder, with beta 1 finally ready for release after strategic delays to align with Drupal 11.3 alpha 1. We demonstrated exciting real-time collaboration features that allow multiple users to build displays simultaneously. The meeting also covered our ongoing migration from UI Patterns 1 to 2, with a new automated conversion tool now available.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/59</comments>
+          <guid isPermaLink="false">cca7a1f9-0b72-4eaf-a738-5f158bbc0c4f</guid>
+          <pubDate>Mon, 24 Nov 25 14:30:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting</category>
+          </item>
 <item>
   <title>UI Suite Monthly #31 - Display Builder Beta Approaches as We Race Toward Drupal 11.3</title>
   <link>https://uisuite.net/ui-suite-monthly-31-display-builder-beta-approachesas-we-race-toward-drupal-11-3</link>
