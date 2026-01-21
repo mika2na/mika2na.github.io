@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 24 Nov 2025 14:29:55 +0100</lastBuildDate>
-<pubDate>Mon, 24 Nov 25 14:30:00 +0100</pubDate>
+<lastBuildDate>Wed, 21 Jan 2026 12:43:22 +0100</lastBuildDate>
+<pubDate>Wed, 21 Jan 26 14:00:00 +0100</pubDate>
+<item>
+  <title>Announcement - Display Builder beta 1 has been released</title>
+  <link>https://uisuite.net/announcement-display-builder-beta-1-has-been-released</link>
+  <description>Monday January the 12th 2026, the UI Suite team has proudly released the first beta of the&amp;nbsp;Display Builder module, a display building tool for ambitious site builders:A single display building tool deeply integrated with DrupalIts powerful unified UI can be used instead of Layout Builder for entity view displays, Block Layout for page displays, and as a replacement of the Views' display building feature. No more struggle with overcomplicated inconsistent UIs!</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/60</comments>
+          <guid isPermaLink="false">2c49b7c2-b674-4491-bf14-c58ac1853945</guid>
+          <pubDate>Wed, 21 Jan 26 14:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>pdureau</dc:creator>
+          <category>drupal-planet, module, display building, design system</category>
+          </item>
 <item>
   <title>UI Suite Monthly #32 - Display Builder Beta 1 Launch, Core Integration Progress and AI-Powered Component Generation</title>
   <link>https://uisuite.net/ui-suite-monthly-32-display-builder-beta-1-launch-core-integration-progress-and-ai-powered-component-generation</link>
   <description>Overall SummaryOur November monthly meeting showcased significant progress across the UI Suite ecosystem as we edge closer to major milestones. The star of the show was Display Builder, with beta 1 finally ready for release after strategic delays to align with Drupal 11.3 alpha 1. We demonstrated exciting real-time collaboration features that allow multiple users to build displays simultaneously. The meeting also covered our ongoing migration from UI Patterns 1 to 2, with a new automated conversion tool now available.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/59</comments>
           <guid isPermaLink="false">cca7a1f9-0b72-4eaf-a738-5f158bbc0c4f</guid>
-          <pubDate>Mon, 24 Nov 25 14:30:00 +0100
+          <pubDate>Mon, 24 Nov 25 10:32:34 +0100
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
