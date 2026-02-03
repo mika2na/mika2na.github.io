@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Wed, 21 Jan 2026 12:43:22 +0100</lastBuildDate>
-<pubDate>Wed, 21 Jan 26 14:00:00 +0100</pubDate>
+<lastBuildDate>Tue, 03 Feb 2026 18:00:00 +0100</lastBuildDate>
+<pubDate>Tue, 03 Feb 26 18:00:00 +0100</pubDate>
+<item>
+  <title>Announcement - Publication of Display Builder beta 2 and a new video</title>
+  <link>https://uisuite.net/announcement-publication-display-builder-beta-2-and-a-new-video</link>
+  <description>New: Video Tutorial &amp;amp; OverviewA new video has been released as part of the Display Builder series: Display Builder: Installation and OverviewWhat it covers:</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/61</comments>
+          <guid isPermaLink="false">c74c22aa-3803-4536-a192-0031c86e0089</guid>
+          <pubDate>Tue, 03 Feb 26 18:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>admin</dc:creator>
+          <category>drupal-planet, display building, design system</category>
+          </item>
 <item>
   <title>Announcement - Display Builder beta 1 has been released</title>
   <link>https://uisuite.net/announcement-display-builder-beta-1-has-been-released</link>
   <description>Monday January the 12th 2026, the UI Suite team has proudly released the first beta of the&amp;nbsp;Display Builder module, a display building tool for ambitious site builders:A single display building tool deeply integrated with DrupalIts powerful unified UI can be used instead of Layout Builder for entity view displays, Block Layout for page displays, and as a replacement of the Views' display building feature. No more struggle with overcomplicated inconsistent UIs!</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/60</comments>
           <guid isPermaLink="false">2c49b7c2-b674-4491-bf14-c58ac1853945</guid>
-          <pubDate>Wed, 21 Jan 26 14:00:00 +0100
+          <pubDate>Wed, 21 Jan 26 12:43:05 +0100
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>pdureau</dc:creator>
