@@ -6,18 +6,30 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Tue, 03 Feb 2026 18:00:00 +0100</lastBuildDate>
-<pubDate>Tue, 03 Feb 26 18:00:00 +0100</pubDate>
+<lastBuildDate>Thu, 05 Feb 2026 18:30:00 +0100</lastBuildDate>
+<pubDate>Thu, 05 Feb 26 18:30:00 +0100</pubDate>
+<item>
+  <title>UI Suite Monthly #33 - Ushering in the Era of AI-Powered Design Systems</title>
+  <link>https://uisuite.net/ui-suite-monthly-33-ushering-in-the-era-of-ai-powered-design-systems</link>
+  <description>Overall SummaryOur February 2026 UI Suite monthly meeting marked a pivotal moment in Drupal's evolution as a design system CMS. We gathered to celebrate significant milestones across our entire module ecosystem. We released Display Builder beta 1, celebrated UI Patterns 2.0's first birthday, witnessed explosive growth in UI Icons adoption (2.5x increase in terms of installations!), and unveiled our most ambitious initiative yet: integrating AI agents into our design system workflow. This meeting wasn't just about progress reports—it was about reimagining how we build, maintain, and evolve design systems in the age of artificial intelligence.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/62</comments>
+          <guid isPermaLink="false">2883fd6a-794f-41aa-bd50-757995b4d5a8</guid>
+          <pubDate>Thu, 05 Feb 26 18:30:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, design system, display building, Monthly meeting</category>
+          </item>
 <item>
   <title>Announcement - Publication of Display Builder beta 2 and a new video</title>
   <link>https://uisuite.net/announcement-publication-display-builder-beta-2-and-a-new-video</link>
   <description>New: Video Tutorial &amp;amp; OverviewA new video has been released as part of the Display Builder series: Display Builder: Installation and OverviewWhat it covers:</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/61</comments>
           <guid isPermaLink="false">c74c22aa-3803-4536-a192-0031c86e0089</guid>
-          <pubDate>Tue, 03 Feb 26 18:00:00 +0100
+          <pubDate>Thu, 05 Feb 26 17:53:56 +0100
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
-          <dc:creator>admin</dc:creator>
+          <dc:creator>G4MBINI</dc:creator>
           <category>drupal-planet, display building, design system</category>
           </item>
 <item>
