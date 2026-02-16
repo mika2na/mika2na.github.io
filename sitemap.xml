@@ -174,7 +174,12 @@
  </url>
  <url>
   <loc>https://uisuite.net/announcement-publication-display-builder-beta-2-and-a-new-video</loc>
-  <lastmod>2026-02-03T17:30:46+01:00</lastmod>
+  <lastmod>2026-02-05T17:53:56+01:00</lastmod>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://uisuite.net/ui-suite-monthly-33-ushering-in-the-era-of-ai-powered-design-systems</loc>
+  <lastmod>2026-02-05T18:16:19+01:00</lastmod>
   <priority>0.5</priority>
  </url>
 </urlset>
