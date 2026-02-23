@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 16 Feb 2026 14:00:00 +0100</lastBuildDate>
-<pubDate>Mon, 16 Feb 26 14:00:00 +0100</pubDate>
+<lastBuildDate>Mon, 23 Feb 2026 14:00:00 +0100</lastBuildDate>
+<pubDate>Mon, 23 Feb 26 14:00:00 +0100</pubDate>
+<item>
+  <title>Live show - Display Builder demo on Talk On My Machine (TOMM)</title>
+  <link>https://uisuite.net/live-show-display-builder-demo-on-talk-on-my-machine</link>
+  <description>Overall summarySparkFabrik continues to be a welcoming hub for the Drupal community, and this session was a great example of that. As part of their ongoing "Talk on My Machine" series, SparkFabrik hosted Michaël Fanini to present Display Builder — the latest addition to the UI Suite ecosystem, designed to simplify and unify the display-building experience in Drupal.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/64</comments>
+          <guid isPermaLink="false">5ca87927-2e43-47f4-8c34-66f865c265ed</guid>
+          <pubDate>Mon, 23 Feb 26 14:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, display building, display builder, design system</category>
+          </item>
 <item>
   <title>Live show - Display Builder &amp; UI Suite DaisyUI by WebWash !</title>
   <link>https://uisuite.net/live-show-display-builder-and-ui-suite-daisyui-by-webwash</link>
   <description>It was fantastic to see Ivan Zugec diving deep into our ecosystem! We actually popped into the chat during the stream (he jokingly referred to us as the "End Boss"), and it was great to see him exploring the capabilities of Display Builder alongside UI Suite DaisyUI.Here is our recap of his session available on WebWash youtube channel:</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/63</comments>
           <guid isPermaLink="false">3b9fc683-a19f-4922-91a7-577159e19e86</guid>
-          <pubDate>Mon, 16 Feb 26 14:00:00 +0100
+          <pubDate>Mon, 16 Feb 26 11:27:37 +0100
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
