@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 23 Feb 2026 14:00:00 +0100</lastBuildDate>
-<pubDate>Mon, 23 Feb 26 14:00:00 +0100</pubDate>
+<lastBuildDate>Wed, 04 Mar 2026 14:20:30 +0100</lastBuildDate>
+<pubDate>Wed, 04 Mar 26 14:19:38 +0100</pubDate>
+<item>
+  <title>Video series - #01 Display Builder page layouts feature walkthrough</title>
+  <link>https://uisuite.net/video-series-display-builder-page-layouts-feature-walkthrough</link>
+  <description>Build beautiful Drupal page layouts without writing a line of TWIG and CSSIf you've ever wished Drupal's block-based layout system came with a more visual, component-driven experience, the new&amp;nbsp;Display Builder module is exactly what you've been waiting for.In this first video of the Display Builder series, Pierre walks through the&amp;nbsp;Page Layouts feature, showing how fast you can build a fully styled, published page layout — no custom code required.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/65</comments>
+          <guid isPermaLink="false">e6fc8eb8-036c-4574-ac62-5d1279e16fd6</guid>
+          <pubDate>Wed, 04 Mar 26 14:19:38 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, display building, display builder, design system</category>
+          </item>
 <item>
   <title>Live show - Display Builder demo on Talk On My Machine (TOMM)</title>
   <link>https://uisuite.net/live-show-display-builder-demo-on-talk-on-my-machine</link>
   <description>Overall summarySparkFabrik continues to be a welcoming hub for the Drupal community, and this session was a great example of that. As part of their ongoing "Talk on My Machine" series, SparkFabrik hosted Michaël Fanini to present Display Builder — the latest addition to the UI Suite ecosystem, designed to simplify and unify the display-building experience in Drupal.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/64</comments>
           <guid isPermaLink="false">5ca87927-2e43-47f4-8c34-66f865c265ed</guid>
-          <pubDate>Mon, 23 Feb 26 14:00:00 +0100
+          <pubDate>Mon, 23 Feb 26 09:41:54 +0100
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
