@@ -6,8 +6,20 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Wed, 04 Mar 2026 14:20:30 +0100</lastBuildDate>
-<pubDate>Wed, 04 Mar 26 14:19:38 +0100</pubDate>
+<lastBuildDate>Fri, 06 Mar 2026 14:00:00 +0100</lastBuildDate>
+<pubDate>Fri, 06 Mar 26 14:00:00 +0100</pubDate>
+<item>
+  <title>Announcement – Display Builder 1.0.0-beta3 is out!</title>
+  <link>https://uisuite.net/announcement-display-builder-beta3-is-out</link>
+  <description>Hot on the heels of beta 2, we are happy to announce the release of Display Builder 1.0.0-beta3! This new release focuses on stability, with a solid round of bug fixes, but also ships meaningful new features.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/66</comments>
+          <guid isPermaLink="false">7e828c9a-9fe2-46c2-81fe-27de4dd26964</guid>
+          <pubDate>Fri, 06 Mar 26 14:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, display building, display builder, design system</category>
+          </item>
 <item>
   <title>Video series - #01 Display Builder page layouts feature walkthrough</title>
   <link>https://uisuite.net/video-series-display-builder-page-layouts-feature-walkthrough</link>
