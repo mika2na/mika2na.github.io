@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Fri, 06 Mar 2026 14:00:00 +0100</lastBuildDate>
-<pubDate>Fri, 06 Mar 26 14:00:00 +0100</pubDate>
+<lastBuildDate>Thu, 12 Mar 2026 11:00:00 +0100</lastBuildDate>
+<pubDate>Thu, 12 Mar 26 11:00:00 +0100</pubDate>
+<item>
+  <title>Video series - #02 Display Builder config proifiles feature walkthrough</title>
+  <link>https://uisuite.net/video-series-display-builder-config-proifiles-feature-walkthrough</link>
+  <description>Display Builder for Drupal: shaping the editing experience with Config ProfilesPart 2 of the Display Builder Beta video series by UI SuiteIn the first episode of the Display Builder Beta video series, Pierre introduced us to the fundamentals of the module, by demonstrating how to create and work with page layouts. In this second instalment, he is diving into one of Display Builder's most powerful features:&amp;nbsp;Config Profiles.What are Config Profiles?Last time, when we created a Page Layout with&amp;nbsp; Display Builder, we were prompted to pick a profile. Out of the box, only the “Default”&amp;nbsp;profile has been available.Config Profiles are&amp;nbsp;configuration entities — meaning they are fully editable, exportable, and deployable like any other Drupal config.&amp;nbsp;</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/67</comments>
+          <guid isPermaLink="false">bb5139ab-b4ac-4790-be0c-da61b36f9805</guid>
+          <pubDate>Thu, 12 Mar 26 11:00:00 +0100
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, display building, design system</category>
+          </item>
 <item>
   <title>Announcement – Display Builder 1.0.0-beta3 is out!</title>
   <link>https://uisuite.net/announcement-display-builder-beta3-is-out</link>
   <description>Hot on the heels of beta 2, we are happy to announce the release of Display Builder 1.0.0-beta3! This new release focuses on stability, with a solid round of bug fixes, but also ships meaningful new features.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/66</comments>
           <guid isPermaLink="false">7e828c9a-9fe2-46c2-81fe-27de4dd26964</guid>
-          <pubDate>Fri, 06 Mar 26 14:00:00 +0100
+          <pubDate>Fri, 06 Mar 26 13:43:59 +0100
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
