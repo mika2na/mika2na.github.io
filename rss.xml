@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Wed, 18 Mar 2026 14:00:00 +0100</lastBuildDate>
-<pubDate>Wed, 18 Mar 26 14:00:00 +0100</pubDate>
+<lastBuildDate>Tue, 08 Apr 2026 14:00:00 +0200</lastBuildDate>
+<pubDate>Tue, 08 Apr 2026 14:00:00 +0200</pubDate>
+<item>
+  <title>UI Suite Monthly #34 — Pushing Toward Core: Design Tokens, AI Workflows, and Display Builder's Road to RC1</title>
+  <link>https://uisuite.net/ui-suite-monthly-34-pushing-toward-core-design-tokens-ai-workflows-and-display-builder-road-to-RC1</link>
+  <description>Overall SummaryOur 34th monthly meeting brought together a smaller-than-usual but engaged group of contributors to review the state of the UI Suite ecosystem. With Drupal's core freeze just six weeks away, we focused on what it takes to get our APIs — Style API, Design Tokens, and Icon API — across the finish line for Drupal 11.1 or 11.4. We also reviewed the rapid cadence of Display Builder beta releases, celebrated impressive adoption numbers for UI Icons, and opened an exciting conversation about AI agent integration with our UI Pattern suite. The session closed with a deep-dive discussion on how Display Builder can eventually work alongside or replace Paragraphs-based workflows for site builders.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/69</comments>
+          <guid isPermaLink="false">aa6cbfe2-7329-4aad-843e-b75b5935e046</guid>
+          <pubDate>Tue, 08 Apr 2026 14:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, display builder, display building, design system</category>
+          </item>
 <item>
   <title>Announcement – Display Builder 1.0.0-beta4 is released</title>
   <link>https://uisuite.net/announcement-display-builder-beta4-is-released</link>
   <description>Just one week after beta 3, we are happy to announce the release of Display Builder 1.0.0-beta4! This is a focused stabilization release, shipping a solid batch of bug fixes — in particular around Entity view overrides — alongside improved API error logging and a handful of developer-facing improvements.A big thank you to the 6 contributors who made this release possible: anruether, fmb, ipumpkin, mogtofu33, nickolaj, and pdureau.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/68</comments>
           <guid isPermaLink="false">68ece83b-bcc3-437e-9119-a42950461daf</guid>
-          <pubDate>Wed, 18 Mar 26 14:00:00 +0100
+          <pubDate>Wed, 18 Mar 26 09:41:29 +0100
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
