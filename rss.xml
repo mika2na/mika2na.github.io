@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Tue, 08 Apr 2026 14:00:00 +0200</lastBuildDate>
-<pubDate>Tue, 08 Apr 2026 14:00:00 +0200</pubDate>
+<lastBuildDate>Mon, 04 May 2026 15:00:00 +0200</lastBuildDate>
+<pubDate>Mon, 04 May 26 15:00:00 +0200</pubDate>
+<item>
+  <title>Video series - #03 Display Builder for Drupal: Entity View Display Explained</title>
+  <link>https://uisuite.net/video-series-03-display-builder-entity-view-display-explained</link>
+  <description>A walkthrough of how Display Builder (by UI Suite) takes control of your entity displays — and plays nicely with the tools you already use.The Display Builder module continues to mature, and in his latest video, Pierre walks us through one of its most practical features: Entity View Display. If you've been following the series, this third installment builds directly on the foundations laid in the first two videos (component-based layouts and the plugin system). If you haven't seen those yet, this post should still give you a clear picture of what's possible.You can watch the full demo here: Entity View Display — Display Builder Beta</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/70</comments>
+          <guid isPermaLink="false">c2287af0-4130-4a7b-98b4-3be715d95902</guid>
+          <pubDate>Mon, 04 May 26 15:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, display building, display builder</category>
+          </item>
 <item>
   <title>UI Suite Monthly #34 — Pushing Toward Core: Design Tokens, AI Workflows, and Display Builder's Road to RC1</title>
   <link>https://uisuite.net/ui-suite-monthly-34-pushing-toward-core-design-tokens-ai-workflows-and-display-builder-road-to-RC1</link>
   <description>Overall SummaryOur 34th monthly meeting brought together a smaller-than-usual but engaged group of contributors to review the state of the UI Suite ecosystem. With Drupal's core freeze just six weeks away, we focused on what it takes to get our APIs — Style API, Design Tokens, and Icon API — across the finish line for Drupal 11.1 or 11.4. We also reviewed the rapid cadence of Display Builder beta releases, celebrated impressive adoption numbers for UI Icons, and opened an exciting conversation about AI agent integration with our UI Pattern suite. The session closed with a deep-dive discussion on how Display Builder can eventually work alongside or replace Paragraphs-based workflows for site builders.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/69</comments>
           <guid isPermaLink="false">aa6cbfe2-7329-4aad-843e-b75b5935e046</guid>
-          <pubDate>Tue, 08 Apr 2026 14:00:00 +0200
+          <pubDate>Tue, 07 Apr 26 23:03:45 +0200
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
