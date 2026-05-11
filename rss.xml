@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 04 May 2026 15:00:00 +0200</lastBuildDate>
-<pubDate>Mon, 04 May 26 15:00:00 +0200</pubDate>
+<lastBuildDate>Mon, 11 May 2026 10:04:17 +0200</lastBuildDate>
+<pubDate>Mon, 11 May 26 15:00:00 +0200</pubDate>
+<item>
+  <title>UI Suite Monthly #35 — Translations Land, Core Proposals Heat Up, and AI Enters the Arena</title>
+  <link>https://uisuite.net/ui-suite-monthly-35-translations-land-core-proposals-heat-up-and-ai-enters-the-arena</link>
+  <description>Overall SummaryOur 35th UI Suite Monthly was one of the most packed sessions yet — a full hour of demos, strategy updates, and an urgent call to action for the community. We covered major progress on the Display Builder (now mid-beta with half its scope completed), a breakthrough demo of symmetric and asymmetric translation support, a roadmap for cleaning up and refocusing UI Patterns this summer, the exciting new ability to use SDC components as form elements, and two critical core proposals — the Design Token API and the Style API — that need community support before the May 15th freeze. We also gave a first look at our AI strategy for display building, with a live demo coming next month. In short: our ecosystem is maturing fast, and the next week is decisive.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/71</comments>
+          <guid isPermaLink="false">ea511ec6-66c5-4c48-a0ac-680ab583b50a</guid>
+          <pubDate>Mon, 11 May 26 15:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, Monthly meeting, design system</category>
+          </item>
 <item>
   <title>Video series - #03 Display Builder for Drupal: Entity View Display Explained</title>
   <link>https://uisuite.net/video-series-03-display-builder-entity-view-display-explained</link>
   <description>A walkthrough of how Display Builder (by UI Suite) takes control of your entity displays — and plays nicely with the tools you already use.The Display Builder module continues to mature, and in his latest video, Pierre walks us through one of its most practical features: Entity View Display. If you've been following the series, this third installment builds directly on the foundations laid in the first two videos (component-based layouts and the plugin system). If you haven't seen those yet, this post should still give you a clear picture of what's possible.You can watch the full demo here: Entity View Display — Display Builder Beta</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/70</comments>
           <guid isPermaLink="false">c2287af0-4130-4a7b-98b4-3be715d95902</guid>
-          <pubDate>Mon, 04 May 26 15:00:00 +0200
+          <pubDate>Mon, 04 May 26 14:18:15 +0200
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
