@@ -6,15 +6,27 @@
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 11 May 2026 10:04:17 +0200</lastBuildDate>
-<pubDate>Mon, 11 May 26 15:00:00 +0200</pubDate>
+<lastBuildDate>Mon, 29 Jun 2026 14:00:00 +0200</lastBuildDate>
+<pubDate>Mon, 29 Jun 26 14:00:00 +0200</pubDate>
+<item>
+  <title>UI Suite Monthly #36 — Beta 5, Recipes, and AI That Builds Your Pages</title>
+  <link>https://uisuite.net/ui-suite-monthly-36-beta-5-recipes-and-ai-that-builds-your-pages</link>
+  <description>Our 36th monthly UI Suite meeting (June 18, 2026) was a packed one. Despite the early-summer heat in Paris and a few people already on holiday, the team walked through a string of releases, demoed a brand-new starter kit, and gave a first live look at AI agents building Drupal pages on their own. Here's everything that happened.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/72</comments>
+          <guid isPermaLink="false">84f65000-67c3-4119-9335-89ce0fa1c0c8</guid>
+          <pubDate>Mon, 29 Jun 26 14:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>drupal-planet, display building, display builder, design system</category>
+          </item>
 <item>
   <title>UI Suite Monthly #35 — Translations Land, Core Proposals Heat Up, and AI Enters the Arena</title>
   <link>https://uisuite.net/ui-suite-monthly-35-translations-land-core-proposals-heat-up-and-ai-enters-the-arena</link>
   <description>Overall SummaryOur 35th UI Suite Monthly was one of the most packed sessions yet — a full hour of demos, strategy updates, and an urgent call to action for the community. We covered major progress on the Display Builder (now mid-beta with half its scope completed), a breakthrough demo of symmetric and asymmetric translation support, a roadmap for cleaning up and refocusing UI Patterns this summer, the exciting new ability to use SDC components as form elements, and two critical core proposals — the Design Token API and the Style API — that need community support before the May 15th freeze. We also gave a first look at our AI strategy for display building, with a live demo coming next month. In short: our ecosystem is maturing fast, and the next week is decisive.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/71</comments>
           <guid isPermaLink="false">ea511ec6-66c5-4c48-a0ac-680ab583b50a</guid>
-          <pubDate>Mon, 11 May 26 15:00:00 +0200
+          <pubDate>Mon, 11 May 26 10:03:40 +0200
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
