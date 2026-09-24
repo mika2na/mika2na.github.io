@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://uisuite.net/">
+<rss version="2.0" xml:base="https://uisuite.net/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>UI Suite Initiative website - Design Systems with Drupal</title>
     <link>https://uisuite.net/</link>
     <description><![CDATA[Design Systems with Drupal]]></description>
     <language>en</language>
-        <atom:link rel="self" href="https://uisuite.net/rss.xml"/>
-<lastBuildDate>Mon, 27 Jul 2026 14:00:00 +0200</lastBuildDate>
-<pubDate>Mon, 27 Jul 26 14:00:00 +0200</pubDate>
+        <atom:link rel="self" href="https://uisuite.net/rss.xml"></atom:link>
+<lastBuildDate>Thu, 24 Sep 2026 09:10:21 +0200</lastBuildDate>
+<pubDate>Thu, 24 Sep 26 14:00:00 +0200</pubDate>
+<item>
+  <title>UI Suite Monthly #38 — Design Tokens Land in Core, a Storybook for Drupal, and the Last Beta Before RC</title>
+  <link>https://uisuite.net/ui-suite-monthly-38-design-tokens-land-in-core-a-storybook-for-drupal-and-the-last-beta-before-rc</link>
+  <description>Our 38th monthly UI Suite meeting (September 17, 2026) was the first one back after the traditional August break — and we kept the 30-minute format introduced in July. Pierre's opening instruction set the tone: "let's focus on the essential, and let's do demos more than just talking." Which is exactly what happened: four demos, one big core announcement, and a full agenda that still fit inside half an hour. So full, in fact, that two items got pushed to next month.Overall SummaryThis month was about&nbsp;things landing. After a year of pushing, Florent announced that a&nbsp;Design Tokens API is now in Drupal core — the second of the big APIs we've been carrying toward core, after SDC improvements. Pierre's take: we're halfway through the core initiative, with three tasks left.</description>
+  <comments>https://github.com/mika2na/mika2na.github.io/issues/74</comments>
+          <guid isPermaLink="false">d6e10764-01d9-4d38-8617-bf7d98987e8b</guid>
+          <pubDate>Thu, 24 Sep 26 14:00:00 +0200
+</pubDate>
+          <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
+          <dc:creator>G4MBINI</dc:creator>
+          <category>display building, display builder, drupal-planet, Monthly meeting</category>
+          </item>
 <item>
   <title>UI Suite Monthly #37 — A new look for Display Builder, and an archaeology site digs in</title>
   <link>https://uisuite.net/ui-suite-monthly-37-a-new-look-for-display-builder-and-an-archaeology-site-digs-in</link>
   <description>Our 37th monthly UI Suite meeting (July 23, 2026) opened with a small piece of housekeeping: our sessions had quietly drifted from 30 minutes to a full hour, so Pierre asked the group to bring them back to half an hour — with anyone who wants to keep chatting free to stay on after the slide deck. It worked. Thirty minutes, three updates, two demos, and we still had time for questions.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/73</comments>
           <guid isPermaLink="false">704b7b22-414f-4527-94e2-555c2bf2a942</guid>
-          <pubDate>Mon, 27 Jul 26 14:00:00 +0200
+          <pubDate>Mon, 27 Jul 26 13:03:57 +0200
 </pubDate>
           <source url="https://uisuite.net/rss.xml">UI Suite Initiative website - Design Systems with Drupal</source>
           <dc:creator>G4MBINI</dc:creator>
@@ -57,7 +69,7 @@
           <category>drupal-planet, display building, display builder</category>
           </item>
 <item>
-  <title>UI Suite Monthly #34 — Pushing Toward Core: Design Tokens, AI Workflows, and Display Builder's Road to RC1</title>
+  <title>UI Suite Monthly #34 — Pushing Toward Core: Design Tokens, AI Workflows, and Display Builder&#039;s Road to RC1</title>
   <link>https://uisuite.net/ui-suite-monthly-34-pushing-toward-core-design-tokens-ai-workflows-and-display-builder-road-to-RC1</link>
   <description>Overall SummaryOur 34th monthly meeting brought together a smaller-than-usual but engaged group of contributors to review the state of the UI Suite ecosystem. With Drupal's core freeze just six weeks away, we focused on what it takes to get our APIs — Style API, Design Tokens, and Icon API — across the finish line for Drupal 11.1 or 11.4. We also reviewed the rapid cadence of Display Builder beta releases, celebrated impressive adoption numbers for UI Icons, and opened an exciting conversation about AI agent integration with our UI Pattern suite. The session closed with a deep-dive discussion on how Display Builder can eventually work alongside or replace Paragraphs-based workflows for site builders.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/69</comments>
@@ -83,7 +95,7 @@
 <item>
   <title>Video series - #02 Display Builder config profiles feature walkthrough</title>
   <link>https://uisuite.net/video-series-display-builder-config-profiles-feature-walkthrough</link>
-  <description>Display Builder for Drupal: shaping the editing experience with Config ProfilesPart 2 of the Display Builder Beta video series by UI SuiteIn the first episode of the Display Builder Beta video series, Pierre introduced us to the fundamentals of the module, by demonstrating how to create and work with page layouts. In this second instalment, he is diving into one of Display Builder's most powerful features:&amp;nbsp;Config Profiles.What are Config Profiles?Last time, when we created a Page Layout with&amp;nbsp; Display Builder, we were prompted to pick a profile. Out of the box, only the “Default”&amp;nbsp;profile has been available.Config Profiles are&amp;nbsp;configuration entities — meaning they are fully editable, exportable, and deployable like any other Drupal config.&amp;nbsp;</description>
+  <description>Display Builder for Drupal: shaping the editing experience with Config ProfilesPart 2 of the Display Builder Beta video series by UI SuiteIn the first episode of the Display Builder Beta video series, Pierre introduced us to the fundamentals of the module, by demonstrating how to create and work with page layouts. In this second instalment, he is diving into one of Display Builder's most powerful features:&nbsp;Config Profiles.What are Config Profiles?Last time, when we created a Page Layout with&nbsp; Display Builder, we were prompted to pick a profile. Out of the box, only the “Default”&nbsp;profile has been available.Config Profiles are&nbsp;configuration entities — meaning they are fully editable, exportable, and deployable like any other Drupal config.&nbsp;</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/67</comments>
           <guid isPermaLink="false">bb5139ab-b4ac-4790-be0c-da61b36f9805</guid>
           <pubDate>Thu, 12 Mar 26 09:29:24 +0100
@@ -107,7 +119,7 @@
 <item>
   <title>Video series - #01 Display Builder page layouts feature walkthrough</title>
   <link>https://uisuite.net/video-series-display-builder-page-layouts-feature-walkthrough</link>
-  <description>Build beautiful Drupal page layouts without writing a line of TWIG and CSSIf you've ever wished Drupal's block-based layout system came with a more visual, component-driven experience, the new&amp;nbsp;Display Builder module is exactly what you've been waiting for.In this first video of the Display Builder series, Pierre walks through the&amp;nbsp;Page Layouts feature, showing how fast you can build a fully styled, published page layout — no custom code required.</description>
+  <description>Build beautiful Drupal page layouts without writing a line of TWIG and CSSIf you've ever wished Drupal's block-based layout system came with a more visual, component-driven experience, the new&nbsp;Display Builder module is exactly what you've been waiting for.In this first video of the Display Builder series, Pierre walks through the&nbsp;Page Layouts feature, showing how fast you can build a fully styled, published page layout — no custom code required.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/65</comments>
           <guid isPermaLink="false">e6fc8eb8-036c-4574-ac62-5d1279e16fd6</guid>
           <pubDate>Wed, 04 Mar 26 14:19:38 +0100
@@ -155,7 +167,7 @@
 <item>
   <title>Announcement - Publication of Display Builder beta 2 and a new video</title>
   <link>https://uisuite.net/announcement-publication-display-builder-beta-2-and-a-new-video</link>
-  <description>New: Video Tutorial &amp;amp; OverviewA new video has been released as part of the Display Builder series: Display Builder: Installation and OverviewWhat it covers:</description>
+  <description>New: Video Tutorial &amp; OverviewA new video has been released as part of the Display Builder series: Display Builder: Installation and OverviewWhat it covers:</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/61</comments>
           <guid isPermaLink="false">c74c22aa-3803-4536-a192-0031c86e0089</guid>
           <pubDate>Thu, 05 Feb 26 17:53:56 +0100
@@ -167,7 +179,7 @@
 <item>
   <title>Announcement - Display Builder beta 1 has been released</title>
   <link>https://uisuite.net/announcement-display-builder-beta-1-has-been-released</link>
-  <description>Monday January the 12th 2026, the UI Suite team has proudly released the first beta of the&amp;nbsp;Display Builder module, a display building tool for ambitious site builders:A single display building tool deeply integrated with DrupalIts powerful unified UI can be used instead of Layout Builder for entity view displays, Block Layout for page displays, and as a replacement of the Views' display building feature. No more struggle with overcomplicated inconsistent UIs!</description>
+  <description>Monday January the 12th 2026, the UI Suite team has proudly released the first beta of the&nbsp;Display Builder module, a display building tool for ambitious site builders:A single display building tool deeply integrated with DrupalIts powerful unified UI can be used instead of Layout Builder for entity view displays, Block Layout for page displays, and as a replacement of the Views' display building feature. No more struggle with overcomplicated inconsistent UIs!</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/60</comments>
           <guid isPermaLink="false">2c49b7c2-b674-4491-bf14-c58ac1853945</guid>
           <pubDate>Wed, 21 Jan 26 12:43:05 +0100
@@ -201,7 +213,7 @@
           <category>drupal-planet, Monthly meeting</category>
           </item>
 <item>
-  <title>UI Suite Monthly #30 - Display Builder "Star of the Show" with live demo (starting at 3:13)</title>
+  <title>UI Suite Monthly #30 - Display Builder &quot;Star of the Show&quot; with live demo (starting at 3:13)</title>
   <link>https://uisuite.net/ui-suite-monthly-30-display-builder-star-of-the-show-with-live-demo</link>
   <description>Overall SummaryOur September monthly meeting marked a pivotal moment for the UI Suite Initiative, with Display Builder reaching its final alpha release (Alpha 5) and preparing to transition into the beta phase. The community-driven project, now supported by 11+ contributors from different agencies, showcased significant progress toward making Drupal the first design system native CMS.</description>
   <comments>https://github.com/mika2na/mika2na.github.io/issues/57</comments>
